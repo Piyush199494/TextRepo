@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42413" started-at="2022-10-19T21:02:21 IST" finished-at="2022-10-19T21:03:03 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42413" started-at="2022-10-19T21:02:21 IST" finished-at="2022-10-19T21:03:03 IST">
+      <class name="testNG.Examplechrome">
+        <test-method status="PASS" signature="loginPageValidationInActitimeApplication()[pri:0, instance:testNG.Examplechrome@7494e528]" name="loginPageValidationInActitimeApplication" duration-ms="42346" started-at="2022-10-19T21:02:21 IST" finished-at="2022-10-19T21:03:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageValidationInActitimeApplication -->
+      </class> <!-- testNG.Examplechrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
